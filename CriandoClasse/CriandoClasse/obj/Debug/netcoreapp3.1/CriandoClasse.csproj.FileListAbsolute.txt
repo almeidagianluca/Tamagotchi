@@ -1,0 +1,13 @@
+C:\Users\almei\Desktop\Técnico\TecPro\CriandoClasse\CriandoClasse\obj\Debug\netcoreapp3.1\CriandoClasse.csprojAssemblyReference.cache
+C:\Users\almei\Desktop\Técnico\TecPro\CriandoClasse\CriandoClasse\obj\Debug\netcoreapp3.1\CriandoClasse.AssemblyInfoInputs.cache
+C:\Users\almei\Desktop\Técnico\TecPro\CriandoClasse\CriandoClasse\obj\Debug\netcoreapp3.1\CriandoClasse.AssemblyInfo.cs
+C:\Users\almei\Desktop\Técnico\TecPro\CriandoClasse\CriandoClasse\obj\Debug\netcoreapp3.1\CriandoClasse.csproj.CoreCompileInputs.cache
+C:\Users\almei\Desktop\Técnico\TecPro\CriandoClasse\CriandoClasse\bin\Debug\netcoreapp3.1\CriandoClasse.exe
+C:\Users\almei\Desktop\Técnico\TecPro\CriandoClasse\CriandoClasse\bin\Debug\netcoreapp3.1\CriandoClasse.deps.json
+C:\Users\almei\Desktop\Técnico\TecPro\CriandoClasse\CriandoClasse\bin\Debug\netcoreapp3.1\CriandoClasse.runtimeconfig.json
+C:\Users\almei\Desktop\Técnico\TecPro\CriandoClasse\CriandoClasse\bin\Debug\netcoreapp3.1\CriandoClasse.runtimeconfig.dev.json
+C:\Users\almei\Desktop\Técnico\TecPro\CriandoClasse\CriandoClasse\bin\Debug\netcoreapp3.1\CriandoClasse.dll
+C:\Users\almei\Desktop\Técnico\TecPro\CriandoClasse\CriandoClasse\bin\Debug\netcoreapp3.1\CriandoClasse.pdb
+C:\Users\almei\Desktop\Técnico\TecPro\CriandoClasse\CriandoClasse\obj\Debug\netcoreapp3.1\CriandoClasse.dll
+C:\Users\almei\Desktop\Técnico\TecPro\CriandoClasse\CriandoClasse\obj\Debug\netcoreapp3.1\CriandoClasse.pdb
+C:\Users\almei\Desktop\Técnico\TecPro\CriandoClasse\CriandoClasse\obj\Debug\netcoreapp3.1\CriandoClasse.genruntimeconfig.cache

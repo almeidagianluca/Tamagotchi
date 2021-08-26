@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CriandoClasse/1.0.0": {
+        "runtime": {
+          "CriandoClasse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CriandoClasse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
